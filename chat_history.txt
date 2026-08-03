@@ -1,0 +1,135 @@
+User: hi
+Bot : 🤖 Greetings! Hope you're having a great day.
+----------------------------------------
+User: joke
+Bot : 😂 Why was the computer cold? It left its Windows open.
+----------------------------------------
+User: ai
+Bot : Artificial Intelligence enables machines to perform tasks that normally require human intelligence.
+----------------------------------------
+User: date
+Bot : 📅 Today's date is 02 August 2026
+----------------------------------------
+User: time
+Bot : 🕒 Current time is 09:53 PM
+----------------------------------------
+User: exit
+Bot : 🤖 See you soon!
+----------------------------------------
+User: chat_history.txt
+Bot : 🤖 Sorry! I don't understand that yet.
+----------------------------------------
+User: Calculator: 50+70
+Bot : 🧮 Answer = 120
+----------------------------------------
+User: 9999-56798
+Bot : 🤖 Sorry! I don't understand that yet.
+----------------------------------------
+User: 900%8
+Bot : 🤖 Sorry! I don't understand that yet.
+----------------------------------------
+User: 100/3
+Bot : 🤖 Sorry! I don't understand that yet.
+----------------------------------------
+User: Calculator: 9999-56798
+Bot : 🧮 Answer = -46799
+----------------------------------------
+User: c:\users\asus\anaconda3\python.exe c:/users/asus/desktop/rule-based-ai-chatbot/chatbot.py
+Bot : 🤖 Sorry! I don't understand that yet.
+----------------------------------------
+User: c:\users\asus\anaconda3\python.exe c:/users/asus/desktop/rule-based-ai-chatbot/chatbot.py
+Bot : 🤖 Sorry! I don't understand that yet.
+----------------------------------------
+User: fact
+Bot : 🤖 Sorry! I don't understand that yet.
+----------------------------------------
+User: c:\users\asus\anaconda3\python.exe c:/users/asus/desktop/rule-based-ai-chatbot/chatbot.py
+Bot : 🤖 Sorry! I don't understand that yet.
+----------------------------------------
+User: c:\users\asus\anaconda3\python.exe c:/users/asus/desktop/rule-based-ai-chatbot/responses.py
+Bot : 🤖 Sorry! I don't understand that yet.
+----------------------------------------
+User: fact
+Bot : 🤖 Sorry! I don't understand that yet.
+----------------------------------------
+User: fact
+Bot : 🤖 Sorry! I don't understand that yet.
+----------------------------------------
+User: c:\users\asus\anaconda3\python.exe c:/users/asus/desktop/rule-based-ai-chatbot/utils.py
+Bot : 🤖 Sorry! I don't understand that yet.
+----------------------------------------
+User: c:\users\asus\anaconda3\python.exe c:/users/asus/desktop/rule-based-ai-chatbot/utils.py
+Bot : 🤖 Sorry! I don't understand that yet.
+----------------------------------------
+User: c:\users\asus\anaconda3\python.exe c:/users/asus/desktop/rule-based-ai-chatbot/utils.py
+Bot : 🤖 Sorry! I don't understand that yet.
+----------------------------------------
+User: c:\users\asus\anaconda3\python.exe c:/users/asus/desktop/rule-based-ai-chatbot/utils.py
+Bot : 🤖 Sorry! I don't understand that yet.
+----------------------------------------
+User: c:\users\asus\anaconda3\python.exe c:/users/asus/desktop/rule-based-ai-chatbot/chatbot.py
+Bot : 🤖 Sorry! I don't understand that yet.
+----------------------------------------
+User: c:\users\asus\anaconda3\python.exe c:/users/asus/desktop/rule-based-ai-chatbot/chatbot.py
+Bot : 🤖 Sorry! I don't understand that yet.
+----------------------------------------
+User: c:\users\asus\anaconda3\python.exe c:/users/asus/desktop/rule-based-ai-chatbot/chatbot.py
+Bot : 🤖 Sorry! I don't understand that yet.
+----------------------------------------
+User: c:\users\asus\anaconda3\python.exe c:/users/asus/desktop/rule-based-ai-chatbot/chatbot.py
+Bot : 🤖 Sorry! I don't understand that yet.
+----------------------------------------
+==================================================
+Time : 2026-08-02 22:29:02.688365
+User : Joke
+Bot  : 😂 I would tell you a UDP joke... but you might not get it.
+==================================================
+
+==================================================
+Time : 2026-08-02 22:29:18.434329
+User : Joke
+Bot  : 😂 Why do Java developers wear glasses? Because they don't C#.
+==================================================
+
+==================================================
+Time : 2026-08-02 22:30:04.245758
+User : Fact
+Bot  : 🤖 ChatGPT is powered by Artificial Intelligence.
+==================================================
+
+==================================================
+Time : 2026-08-02 22:30:29.934354
+User : Quiz
+Bot  : Correct
+==================================================
+
+==================================================
+Time : 2026-08-02 22:30:42.383342
+User : Quiz
+Bot  : Wrong
+==================================================
+
+==================================================
+Time : 2026-08-02 22:30:51.121300
+User : Date
+Bot  : 📅 Today's Date : 02 August 2026
+==================================================
+
+==================================================
+Time : 2026-08-02 22:31:00.291652
+User : Time
+Bot  : 🕒 Current Time : 10:30:59 PM
+==================================================
+
+==================================================
+Time : 2026-08-02 22:31:08.788889
+User : Greeting
+Bot  : 🎉 Hi! I'm happy to help you.
+==================================================
+
+==================================================
+Time : 2026-08-02 22:31:25.782463
+User : AI Knowledge
+Bot  : Machine Learning is a branch of AI that enables computers to learn from data.
+==================================================
+
